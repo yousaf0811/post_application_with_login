@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Harry Potter",
+      "email": "yousaf@gmail.com",
+      "password": "1122"
+    },
+    {
+      "name": "bano",
+      "email": "quranclass6677@gmail.com",
+      "password": "1122",
+      "id": "9z3Jl-z"
+    },
+    {
+      "name": "hell",
+      "email": "hell@gmail.com",
+      "password": "1122",
+      "id": "UYAIkIk"
+    },
+    {
+      "name": "hell1",
+      "email": "hell1@gmail.com",
+      "password": "1122",
+      "id": "KODDYj_"
+    },
+    {
+      "id": "2",
+      "name": "bano",
+      "email": "rashid.4969423@gmail.com",
+      "pass": "1122",
+      "DOB": "2022-12-20",
+      "gender": "female"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "yousa",
+      "title": "helo",
+      "body": "Helo Bro"
+    },
+    {
+      "name": "Muhammad Yousaf Ramzan",
+      "title": "as",
+      "details": "as",
+      "id": "va9ZHR1"
+    },
+    {
+      "name": "bano",
+      "title": "helo sister",
+      "details": "as",
+      "id": "6X5vyus"
+    },
+    {
+      "name": "hell",
+      "title": "as",
+      "details": "as",
+      "id": "BdVsVEr"
+    },
+    {
+      "name": "hell1",
+      "title": "as",
+      "details": "as",
+      "id": "Tj5xHZK"
+    },
+    {
+      "name": null,
+      "title": null,
+      "details": null,
+      "id": "q1xo_Qr"
+    }
+  ]
+}
